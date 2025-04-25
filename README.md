@@ -88,7 +88,7 @@ Olá! Sou estudante de Engenharia de Software com paixão por desenvolvimento we
 
 Estou sempre aberto a novas oportunidades de colaboração, aprendizado e networking! Sinta-se à vontade para me contatar através das minhas redes sociais ou e-mail.
 
-> "O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software seguindo uma lista. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas." - Robert C. Martin
+> "O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software seguindo uma lista. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas." - Uncle Bob
 
 ## 📊 GitHub Stats
 
