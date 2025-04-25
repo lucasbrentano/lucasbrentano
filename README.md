@@ -41,13 +41,19 @@ Olá! Sou estudante de Engenharia de Software com paixão por desenvolvimento we
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+### Metodologias de Desenvolvimento
+- **Git Flow:** Experiência com estratégias de ramificação (main/develop/feature)
+- **Controle de Versão:** Gerenciamento de branches, merge strategies, resolução de conflitos
+- **Colaboração:** Pull requests, code reviews, integração contínua
+
 ### Paradigmas & Conceitos
 ![POO](https://img.shields.io/badge/Programação_Orientada_a_Objetos-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Programação Funcional](https://img.shields.io/badge/Programação_Funcional-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Arquitetura & Design
 ![Modelagem_BD](https://img.shields.io/badge/Modelagem_de_Dados-4479A1?style=for-the-badge&logo=diagram&logoColor=white)
-![UML](https://img.shields.io/badge/UML-FFA500?style=for-the-badge&logo=uml&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FFA500?style=for-the-badge&logo=uml&logoColor=white)![MVC](https://img.shields.io/badge/MVC-43853D?style=for-the-badge&logo=.net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-43853D?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Sistemas & Ferramentas de Produtividade
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
