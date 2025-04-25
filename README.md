@@ -1,4 +1,4 @@
-# Lucas Brentano
+# Lucas Aquino Brentano
 
 ## 👨‍💻 Engenheiro de Software em Formação
 
