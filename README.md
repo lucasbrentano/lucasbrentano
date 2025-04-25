@@ -50,7 +50,7 @@ Olá! Sou estudante de Engenharia de Software com paixão por desenvolvimento we
 
 ### Arquitetura & Design
 ![Modelagem_BD](https://img.shields.io/badge/Modelagem_de_Dados-4479A1?style=for-the-badge&logo=diagram&logoColor=white)
-![UML](https://img.shields.io/badge/UML-FFA500?style=for-the-badge&logo=uml&logoColor=white)![MVC](https://img.shields.io/badge/MVC-43853D?style=for-the-badge&logo=.net&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FFA500?style=for-the-badge&logo=uml&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-43853D?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Sistemas & Ferramentas de Produtividade
